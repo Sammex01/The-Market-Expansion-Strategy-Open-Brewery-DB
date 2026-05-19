@@ -1,4 +1,4 @@
-#  Strategic Market Expansion: Brewery Distribution Analysis
+# 🍻 Strategic Market Expansion: Brewery Distribution Analysis
 
 ### 🎯 Objective
 A craft beverage logistics company is looking to expand its distribution network and needs to determine the optimal location for a new warehouse. The goal of this project was to analyze the geographical density of active micro and regional breweries across North America to identify the most suitable target market.
