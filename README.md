@@ -4,7 +4,7 @@
 A craft beverage logistics company is looking to expand its distribution network and needs to determine the optimal location for a new warehouse. The goal of this project was to analyze the geographical density of active micro and regional breweries across North America to identify the most lucrative target market.
 
 ### 🛠️ Methodology & Technical Stack
-This project utilized Python and the **Open Brewery DB API** to extract, clean, and aggregate business data.
+This project utilized **Python** and the **Open Brewery DB API** to extract, clean, and aggregate business data.
 
 * **API Pagination:** Engineered a data extraction loop to pull thousands of records across multiple API pages while implementing polite sleep timers to avoid rate-limiting.
 * **Data Cleansing:** Filtered out 'closed' and 'planning' locations to ensure the analysis only included active, viable logistics targets. 
