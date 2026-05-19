@@ -17,5 +17,5 @@ This project utilized Python and the **Open Brewery DB API** to extract, clean, 
 ### 💡 Key Business Insights
 After analyzing the active micro and regional brewery market, the data points to a very clear geographical strategy:
 1. **The West Coast Dominates:** **San Diego, CA (20)** is the undisputed optimal location for the new warehouse, offering the highest density of potential clients. 
-2. **Secondary Hubs:** If the company is looking for a multi-warehouse expansion, **Denver, CO (16)** and **Toronto, ON (16)** offer incredibly strong secondary markets.
+2. **Secondary Hubs:** If the company is looking for a multi-warehouse expansion, **Denver, CO (16)** and **Toronto, ON (16)** offers incredibly strong secondary markets.
 3. **The Pacific Northwest:** Portland, OR (15) remains a highly competitive market, rounding out the top-tier distribution hubs.
